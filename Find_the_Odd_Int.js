@@ -15,5 +15,5 @@ function findOdd(A) {
   // use Number() method to convert the string value to integer
   // use Object.keys() to find the list of key from the js object
   // use Array.find() to find a particular key
-  return Number(Object.keys(c_count).find(key => c_count[key]%2 !== 0))
+  return Number(Object.keys(c_count).find(key => c_count[key]%2 !== 0));
 }

@@ -5,7 +5,7 @@ Do not allocate extra space for another array, you must do this by modifying the
 
 You may assume all the characters consist of printable ascii characters.
 
-url: https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/1440/
+URL: https://leetcode.com/explore/learn/card/recursion-i/250/principle-of-recursion/1440/
 */
 
 /**
